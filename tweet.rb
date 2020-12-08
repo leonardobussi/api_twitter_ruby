@@ -3,11 +3,11 @@ require 'json'
 
 
 class ApiTwitter
-  CONSUMER_KEY = 'akPt2HuGzBt8QwtrrZe3op6eJ'
-  CONSUMER_SECRET = 'nQ1UMYVZbDpXc2gBLqgqCat7kIJtsj1mzJGshvUSd7I2luvPal'
+  CONSUMER_KEY = ''
+  CONSUMER_SECRET = ''
 
-  OA_TOKEN = '1309114298464075781-iOCBhYr8TqZxVXfjis409XZBMnlp2z'
-  OA_SECRET = 'ndjcRDLfArc6nWe4KLzbWwxh5XjaIeYWfbfWX48QOphX0'
+  OA_TOKEN = ''
+  OA_SECRET = ''
 
 
   BASE_URI = 'https://api.twitter.com/1.1/'
